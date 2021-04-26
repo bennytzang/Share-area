@@ -30,10 +30,6 @@
 	!tab
 	Return
 
-!\::
-	^tab
-	Return
-
 ^\::
 	^tab
 	Return
